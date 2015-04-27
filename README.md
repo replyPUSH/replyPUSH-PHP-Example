@@ -1,8 +1,8 @@
-# replyPush - Reply By Email Example #
+# replyPUSH - Reply By Email Example #
 
 ### About ###
 
-Basic example of how you might use the replyPush API
+Basic example of how you might use the replyPUSH API
 
 ### Installation / Configuration ###
 
@@ -16,7 +16,7 @@ Then rename `config/config-template.php` as `config/config.php` filling out all 
 
 Get your credentials from here: 
 
-http://beta.replypush.com/profile
+http://beta.replyPUSH.com/profile
 
 Fill out valid SMTP account credentials, and make sure all emails you use are valid.
 
@@ -24,7 +24,7 @@ Pick a suitable username for the test.
 
 You need to save the public address `/notify.php` e.g. `http://insectnuts.com/notify.php` here:
 
-http://beta.replypush.com/profile
+http://beta.replyPUSH.com/profile
 
 
 ### Use ###
