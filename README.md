@@ -22,16 +22,16 @@ Fill out valid SMTP account credentials, and make sure all emails you use are va
 
 Pick a suitable username for the test.
 
-You need to save the public address `notify.php` e.g. `http://insectnuts.com/notify.php` here:
+You need to save the public address `/notify.php` e.g. `http://insectnuts.com/notify.php` here:
 
 http://beta.replypush.com/profile
 
 
 ### Use ###
 
-Point your browser to `send.php` or run in shell.
+Point your browser to `/send.php` or run in shell.
 
-You could either `$ tail -f log/comments.txt` or point your browser to  `index.html`
+You could either `$ tail -f log/comments.txt` or point your browser to  `/index.html`
 
 Go to the destination email client, and await new mail.
 
