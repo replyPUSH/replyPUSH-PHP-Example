@@ -107,6 +107,3 @@ if(!$sent){
 }else{
     echo "Email was sent succesfully!";
 }
-
-
-
